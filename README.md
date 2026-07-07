@@ -54,7 +54,8 @@ currently_exploring: [Python, JavaScript, Node.js, desktop GUI apps]
 <br/><br/>
 
 <img src="https://img.shields.io/github/languages/top/abdulqodiribrahim/GUI-1?style=for-the-badge&label=Top%20Language&color=2BACFA&logo=github&logoColor=white" />
-<img src="https://img.shields.io/github/last-commit/abdulqodiribrahim/GUI-1?style=for-the-badge&label=Last%20Commit&color=0B2D4E&logo=github&logoColor=white" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulqodiribrahim&bg_color=00000000&color=0B2D4E&line=188CDC&point=2BACFA&hide_border=true" />
+
 
 </div>
 
