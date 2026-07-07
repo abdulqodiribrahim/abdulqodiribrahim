@@ -53,7 +53,7 @@ currently_exploring: [Python, JavaScript, Node.js, desktop GUI apps]
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulqodiribrahim&hide_border=true&background=00000000&ring=188CDC&fire=2BACFA&currStreakLabel=0B2D4E" />
+<img src="https://streak-stats.demolab.com/?user=abdulqodiribrahim&hide_border=true&background=00000000&ring=188CDC&fire=2BACFA&currStreakLabel=0B2D4E" />
 
 <br/>
 
