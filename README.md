@@ -16,13 +16,13 @@
 
 ## 🧭 About Me
 
-\`\`\`yaml
+```yaml
 role: Software Developer
 company: PT Sinergi Sistem Digital (SSD)
 location: Banyumas, Jawa Tengah, Indonesia
 focus: [development, internal tooling, documentation & process systems]
 currently_exploring: [Python, JavaScript, Node.js, desktop GUI apps]
-\`\`\`
+```
 
 - 💻 Building and maintaining software products at **SSD**, a software house in Banyumas
 - 🧩 Work spans development, GUI applications, and internal documentation/compliance systems
@@ -48,16 +48,13 @@ currently_exploring: [Python, JavaScript, Node.js, desktop GUI apps]
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=abdulqodiribrahim&show_icons=true&theme=default&hide_border=true&title_color=0B2D4E&icon_color=188CDC&text_color=333&bg_color=00000000" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulqodiribrahim&layout=compact&hide_border=true&title_color=0B2D4E&text_color=333&bg_color=00000000" />
+<img src="https://img.shields.io/github/followers/abdulqodiribrahim?style=for-the-badge&label=Followers&color=0B2D4E&logo=github&logoColor=white" />
+<img src="https://img.shields.io/github/stars/abdulqodiribrahim?style=for-the-badge&label=Total%20Stars&color=188CDC&logo=github&logoColor=white" />
 
-<br/>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=abdulqodiribrahim&hide_border=true&background=00000000&ring=188CDC&fire=2BACFA&currStreakLabel=0B2D4E" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulqodiribrahim&bg_color=00000000&color=0B2D4E&line=188CDC&point=2BACFA&hide_border=true" />
+<img src="https://img.shields.io/github/languages/top/abdulqodiribrahim/GUI-1?style=for-the-badge&label=Top%20Language&color=2BACFA&logo=github&logoColor=white" />
+<img src="https://img.shields.io/github/last-commit/abdulqodiribrahim/GUI-1?style=for-the-badge&label=Last%20Commit&color=0B2D4E&logo=github&logoColor=white" />
 
 </div>
 
@@ -67,11 +64,35 @@ currently_exploring: [Python, JavaScript, Node.js, desktop GUI apps]
 
 <div align="center">
 
-<a href="https://github.com/abdulqodiribrahim/GUI-1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abdulqodiribrahim&repo=GUI-1&theme=default&hide_border=true&title_color=0B2D4E&icon_color=188CDC" /></a>
-<a href="https://github.com/abdulqodiribrahim/GUI-2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abdulqodiribrahim&repo=GUI-2&theme=default&hide_border=true&title_color=0B2D4E&icon_color=188CDC" /></a>
+**[GUI-1](https://github.com/abdulqodiribrahim/GUI-1)**
+<br/>
+<img src="https://img.shields.io/github/stars/abdulqodiribrahim/GUI-1?style=flat-square&color=0B2D4E&logo=github" />
+<img src="https://img.shields.io/github/forks/abdulqodiribrahim/GUI-1?style=flat-square&color=188CDC&logo=github" />
+<img src="https://img.shields.io/github/languages/top/abdulqodiribrahim/GUI-1?style=flat-square&color=2BACFA" />
 
-<a href="https://github.com/abdulqodiribrahim/GUI-5"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abdulqodiribrahim&repo=GUI-5&theme=default&hide_border=true&title_color=0B2D4E&icon_color=188CDC" /></a>
-<a href="https://github.com/abdulqodiribrahim/js-Mahasiswa"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abdulqodiribrahim&repo=js-Mahasiswa&theme=default&hide_border=true&title_color=0B2D4E&icon_color=188CDC" /></a>
+<br/><br/>
+
+**[GUI-2](https://github.com/abdulqodiribrahim/GUI-2)**
+<br/>
+<img src="https://img.shields.io/github/stars/abdulqodiribrahim/GUI-2?style=flat-square&color=0B2D4E&logo=github" />
+<img src="https://img.shields.io/github/forks/abdulqodiribrahim/GUI-2?style=flat-square&color=188CDC&logo=github" />
+<img src="https://img.shields.io/github/languages/top/abdulqodiribrahim/GUI-2?style=flat-square&color=2BACFA" />
+
+<br/><br/>
+
+**[GUI-5](https://github.com/abdulqodiribrahim/GUI-5)**
+<br/>
+<img src="https://img.shields.io/github/stars/abdulqodiribrahim/GUI-5?style=flat-square&color=0B2D4E&logo=github" />
+<img src="https://img.shields.io/github/forks/abdulqodiribrahim/GUI-5?style=flat-square&color=188CDC&logo=github" />
+<img src="https://img.shields.io/github/languages/top/abdulqodiribrahim/GUI-5?style=flat-square&color=2BACFA" />
+
+<br/><br/>
+
+**[js-Mahasiswa](https://github.com/abdulqodiribrahim/js-Mahasiswa)**
+<br/>
+<img src="https://img.shields.io/github/stars/abdulqodiribrahim/js-Mahasiswa?style=flat-square&color=0B2D4E&logo=github" />
+<img src="https://img.shields.io/github/forks/abdulqodiribrahim/js-Mahasiswa?style=flat-square&color=188CDC&logo=github" />
+<img src="https://img.shields.io/github/languages/top/abdulqodiribrahim/js-Mahasiswa?style=flat-square&color=2BACFA" />
 
 </div>
 
